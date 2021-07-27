@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Temecula Valley Math Circle"
 theme = "ink"
-themeDir = "themes/ink"
+# themesDir = "themes/"
 paginate = 5 
 summaryLength = 20
 
