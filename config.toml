@@ -1,0 +1,50 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Temecula Valley Math Circle"
+theme = "hugo-ink"
+paginate = 5 
+summaryLength = 20
+
+pygmentsstyle = "solarized-dark" 
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	subtitle = "MOTTO/SUBTITLE HERE"
+	avatar = "https://i.imgur.com/U2DdnLB.jpg" 
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "auto"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2 
+
+[[menu.main]]
+name = "Resources"
+url = "/resources"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4 
+
+[[params.social]]
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/socal.mathhub"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/temeculamathcircle/"
+
+[taxonomies]
+	tag = "tags"
