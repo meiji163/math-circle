@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Temecula Valley Math Circle"
 theme = "hugo-ink"
-paginate = 5 
+paginate = 10 
 summaryLength = 20
 
 pygmentsstyle = "solarized-dark" 

@@ -28,7 +28,7 @@ html,button,input,select,textarea {
 }
 
 ::selection {
-    background: #3700ff;
+    background: #ff0000;
     text-shadow: none;
     color: #fff;
 }
