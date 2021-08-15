@@ -10,7 +10,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "MOTTO/SUBTITLE HERE"
+	subtitle = "ἀεὶ ὁ θεὸς γεωμετρεῖ"
 	avatar = "https://i.imgur.com/U2DdnLB.jpg" 
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
