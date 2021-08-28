@@ -1,4 +1,5 @@
 title = "Temecula Valley Math Circle"
+baseurl = "https://www.tvmathcircle.com/" 
 theme = "hugo-ink"
 paginate = 3  
 summaryLength = 20 
