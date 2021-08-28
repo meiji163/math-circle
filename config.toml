@@ -1,9 +1,7 @@
-baseURL = "/"
-languageCode = "en-us"
 title = "Temecula Valley Math Circle"
 theme = "hugo-ink"
-paginate = 10 
-summaryLength = 20
+paginate = 3  
+summaryLength = 20 
 
 pygmentsstyle = "solarized-dark" 
 pygmentscodefences = true
@@ -11,7 +9,8 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 	subtitle = "Ἀεὶ ὁ Θεὸς ὀ Μέγας γεωμετρεῖ"
-	avatar = "https://i.imgur.com/U2DdnLB.jpg" 
+	customCSS = "/css/calendar.css"
+	avatar = "/images/logo.jpg"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto"
@@ -44,7 +43,8 @@ url = "https://www.facebook.com/socal.mathhub"
 [[params.social]]
 name = "Instagram"
 icon = "instagram"
-url = "https://www.instagram.com/temeculamathcircle/"
+url = "https://www.instagram.com/temeculavalleymathcircle/"
 
 [taxonomies]
+	archive = "archive"
 	tag = "tags"

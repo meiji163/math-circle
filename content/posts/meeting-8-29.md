@@ -1,8 +1,10 @@
 ---
-title: "Lecture"
+title: "Lecture: Modular Arithmetic I"
 date: 2021-08-29
-publishdate: 2021-08-15
+archive: ["2021", "2021-08", "2021-08-29"]
+description: "Introductory lecuture on modular arithmetic, with practice problems.
+			  3-5pm @Lighthouse Tutoring"
 draft: false
+featured: true
 ---
 
-3-5pm @Lighthouse Tutoring, 31701 Temecula Pkwy.

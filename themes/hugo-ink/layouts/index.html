@@ -4,12 +4,14 @@
 <body>
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
-
 		<div class="recent-posts section">
+			<h2> {{ "Upcoming Events" }} </h2>
+
 			<div class="posts">
+				{{ $featured := where .Site.RegularPages ".Params.featured" true }}
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
+				{{ $paginator := .Paginate $featured}}  
+				{{ range $paginator.Pages.Reverse}}
 					<div class="post">
 						{{ partial "post-preview.html" . }}
 					</div>
@@ -17,6 +19,10 @@
 				{{ template "partials/paginator.html" . }}
 			</div>
 		</div>
+			<p>The math circle meets weekly on Sunday 3-5 pm at <a href="https://lighthousetutor.com">Lighthouse Tutoring</a> in Temecula. 
+			Middle school and high school students of all mathematical levels are welcome to join!</p> 
+		<hr>
+		{{ partial "calendar" (dict "context" . "from" 2021 "fromMonth" 1 "to" 2021 "toMonth" (now.Format "1") "pages" .Site.Pages) }}
 	</div>
 	{{ partial "footer.html" . }}
 </body>
