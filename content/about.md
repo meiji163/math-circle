@@ -25,6 +25,9 @@ the _SEPT Teachers Grant_ from MIT in  2019, and the _Edyth May Sliffe Award_ fr
 **Charlotte Myers**: Charlotte Myers is a junior at Great Oak High School, where she is deeply involved in Math Club, Science Olympiad, and competitive robotics. 
 She enjoys competing in STEM competitions, taking advanced math and science courses, and conducting independent scientific research, which she has contributed to at UCSD and Vanderbilt University. In the future, she plans to pursue a PhD in math or physics and devote her time to investigating the mysteries of the universe. 
 
+**Jack Maxey**: Jack Maxey is a junior at Great Oak High School, where he is a prominent member of the math club. He is a strong competitor in math competitions, consistently placing among the top scorers at his school. He is currently an officer of the math club, striving to make the club and its members the best they can be. 
+He hopes to do the same with the math circle by growing its members' skills and passion for math. 
+
 **Humphrey Adefuin**: Humphrey Adefuin is a senior at Great Oak High School and the current co-president of the Great Oak Math Club. He has been actively involved in competitive math for about four years, starting in middle school, and hopes to expose more people to competitive math and enjoy the same experience he had.
 
 **Cassandra Adefuin**: Cassandra Adefuin is a junior at Great Oak High School, as well as the current co-president of the Great Oak Math Club. She has participated in math competitions since middle school and enjoys working through challenging math problems. She hopes to help others find opportunities to appreciate higher levels of mathematics.
