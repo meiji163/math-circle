@@ -6,7 +6,7 @@ description: "We will have a 1v1 competition mathcounts-style,
 archive: ["2021","2021-09","2021-09-05"]
 description: "We will practice with a past AMC 12 test and go over solutions."
 draft: false 
-featured: true
+featured: false 
 ---
 
 Congradulations to Cassandra for winning the 1v1 competition! 
